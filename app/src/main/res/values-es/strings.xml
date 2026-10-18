@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Campus Demo</string>
+    <string name="app_title">Campus Connect Demo</string>
+    <string name="app_subtitle">Recursos para estudiantes internacionales</string>
+
+
+    <!--    Start of A  block of data Session 2-->
+    <string name="resources_section_header"> Recursos del Campus</string>
+    <string name="category_label">Categoria %1$s</string>
+
+    <!--    Start of A  block of data Session 2-->
+
+    <!--    Start of A  block of data-->
+    <string name="resource_intl_office_name">Oficina para estudiantes</string>
+    <string name="resource_intl_office_category">Asesoria</string>
+    <string name="resource_intl_office_hours">9:00 AM - 5:00 PM</string>
+
+
+    <string name="resource_library_name">Biblioteca Principal</string>
+    <string name="resource_library_category">Espacio de estudio</string>
+    <string name="resource_library_hours">7:00 AM - 7:00 PM</string>
+
+    <string name="resource_veterans_name">Centro de recursos para veteranos</string>
+    <string name="resource_veterans_category">Servicios de apoyo</string>
+    <string name="resource_veterans_hours">8:00 AM - 8:00 PM</string>
+
+    <string name="last_updated_label">Ultima actualizacion: %1$s</string>
+    <string name="hours_label">Horas: %1$s</string>
+
+    <!--    Start of A  block of data Session 2-->
+    <string name="content_desc_resource_card">%1$s , %2$s , horario %3$s</string>
+    <!--    Start of A  block of data Session 2-->
+
+
+
+    <string name="updated_short_label">Actualizado: %1$s</string>
+    <string name="fee_label">Tarifa: %1$s</string>
+    <string name="capacity_label">Capacidad: %1$s people</string>
+
+
+    <plurals name="review_count">
+        <item quantity="one">%d resena</item>
+        <item quantity="other">%d resenas</item>
+        <item quantity="many">%d resenas</item>
+    </plurals>
+
+</resources>
